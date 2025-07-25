@@ -12,3 +12,4 @@ tmp
 
 !test/permutations/index.js
 !test/permutations/karma.conf.template.js
+.env
